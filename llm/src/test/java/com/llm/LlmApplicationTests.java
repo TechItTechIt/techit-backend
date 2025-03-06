@@ -1,10 +1,10 @@
-package com.techit;
+package com.llm;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class TechItApplicationTests {
+class LlmApplicationTests {
 
 	@Test
 	void contextLoads() {
