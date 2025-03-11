@@ -1,1 +1,5 @@
 rootProject.name = 'techit'
+
+include('common')
+include('llm')
+include('batch')
